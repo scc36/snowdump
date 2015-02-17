@@ -1,6 +1,8 @@
 # SnowDump
 Snow, snow everywhere
 
+[Play on gh-pages](http://scc36.github.io/snowdump/)
+
 **HTML5 whim made with Phaser**
 
 * You are Snow Cloud, merciless and relentless.
