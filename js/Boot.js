@@ -23,7 +23,7 @@ BasicGame.Boot.prototype = {
     else
     {
       // mobile settings
-      this.scale.scaleMode = Phaser.ScaleManager.EXACT_FIT;
+      this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
       this.scale.setScreenSize();
       this.scale.setMinMax(480, 320, 1280, 720);
       this.scale.forceLandscape = true;
