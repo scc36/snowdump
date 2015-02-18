@@ -17,7 +17,7 @@ BasicGame.Boot.prototype = {
     if (this.game.device.desktop)
     {
       // desktop specific settings, they can go in here
-      this.scale.scaleMode = Phaser.ScaleManager.EXACT_FIT;
+      this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
       this.scale.pageAlignHorizontally = true;
     }
     else
